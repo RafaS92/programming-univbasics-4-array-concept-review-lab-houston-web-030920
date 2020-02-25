@@ -11,7 +11,8 @@ end
 end
 
 def find_max_value(array)
-  array.length.times do |
+  array.length.times do |value |
+    a
     
 end
 
